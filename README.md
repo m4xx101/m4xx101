@@ -20,7 +20,7 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />][Powershell]
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][Kali]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][Kali] <br>
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][Vcode] <br>
 
