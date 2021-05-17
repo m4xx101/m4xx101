@@ -25,7 +25,7 @@
 
 - 👨‍💻 **Freelancer/Bug Bounty Hunter**\
 📆 2018 - 2019\
-📍 **Web Works** - Mumbai, India
+📍 **Freelancer** - Mumbai, India
 
 </details>
 
