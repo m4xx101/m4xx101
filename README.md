@@ -14,46 +14,23 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][Python]
 
-[Python]: https://www.python.org/
-
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />][Go]
-
-
-[Go]: https://golang.org/
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />][bash]
 
-[bash]: https://www.gnu.org/software/bash/
-
 [<img align="left" alt="medium" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />][Powershell]
-
-[Powershell]: https://docs.microsoft.com/en-us/powershell/
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][Kali]
 
-[Kali]: https://www.kali.org/
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][Vcode]
-
-[Vcode]: https://code.visualstudio.com/
-
-<br> 
-<br>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][Vcode] <br>
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />][Btc]
 
-[Btc]: https://bitcoin.org/en/
-
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white" />][Eth]
-
-[Eth]: https://ethereum.org/en/
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][git]
 
-[git]: https://github.com/m4xx101
-
 <br>
-
 <br>
 
 ### Social Media:
@@ -62,16 +39,21 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-[Twitter]: https://www.twitter.com/m4xx101
-
-[LinkedIn]: https://www.linkedin.com/in/deepakmistry101101
-
 <br>
-
 <br>
 
 ### Github Stats:
 [![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4xx101&show_icons=true&theme=radical)](https://github.com/m4xx101)
 
-
+[Python]: https://www.python.org/
+[Go]: https://golang.org/
+[bash]: https://www.gnu.org/software/bash/
+[Powershell]: https://docs.microsoft.com/en-us/powershell/
+[Kali]: https://www.kali.org/
+[Vcode]: https://code.visualstudio.com/
+[Btc]: https://bitcoin.org/en/
+[Eth]: https://ethereum.org/en/
+[git]: https://github.com/m4xx101
+[Twitter]: https://www.twitter.com/m4xx101
+[LinkedIn]: https://www.linkedin.com/in/deepakmistry101101
 
