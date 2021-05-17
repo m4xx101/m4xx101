@@ -1,16 +1,20 @@
 ### Hello Friend!, I'm Deepak. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<p><A guy who loves to break or you can say "just a tech"👨‍💻! <br>
+<br>
+
+### 👨🏻‍💻 &nbsp;About Me: 
+<p><A guy who loves to break or you can say "just a tech"👨‍💻!
 
 Started as a programmer now full time Security Consultant.
 
 In my spare time I do bug hunting, CTF Challenges, Write custom tools (Bash/python/Go).
 
-
 Coming to the practical Point, I like writing scripts in Bash and tools in python/golang to automate recon processes. apart from that I have total 3 years of experiance in different areas in Cyber Space.
 </p>
 
-### Some of the tech I use:
+<br>
+
+### 🛠 &nbsp;Tech I Use:
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][Python]
 
@@ -33,7 +37,7 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 <br>
 <br>
 
-### Social Media:
+### 🤝🏻 &nbsp;Social Media:
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 
@@ -42,8 +46,14 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 <br>
 <br>
 
-### Github Stats:
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4xx101&show_icons=true&theme=radical)](https://github.com/m4xx101)
+### ⚙️ &nbsp;GitHub Analytics:
+
+<p align="center">
+<a href="https://github.com/m4xx101">
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4xx101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4xx101&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [Python]: https://www.python.org/
 [Go]: https://golang.org/
