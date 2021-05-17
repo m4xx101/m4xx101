@@ -1,6 +1,34 @@
 ### Hello Friend!, I'm Deepak. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<br>
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Bachelor in computer science**\
+📆 2015 - 2018\
+📍 **Mithibai College** - Mumbai, India
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+- 👨‍💻 **Consultant**\
+📆 2020 - Present\
+📍 **Aujas Networks Ltd** - Mumbai, India
+
+- 👨‍💻 **Executive Cyber-i**\
+📆 2019 - 2019\
+📍 **AGC Networks Ltd** - Mumbai, India
+
+
+- 👨‍💻 **Freelancer/Bug Bounty Hunter**\
+📆 2018 - 2019\
+📍 **Web Works** - Mumbai, India
+
+</details>
+
 
 ### 👨🏻‍💻 &nbsp;About Me: 
 <p><A guy who loves to break or you can say "just a tech"👨‍💻!
