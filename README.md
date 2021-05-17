@@ -56,7 +56,7 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][Vcode] <br>
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />][Btc]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][CS]
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white" />][Eth]
 
@@ -65,11 +65,17 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 <br>
 <br>
 
-### 🤝🏻 &nbsp;Social Media:
+### 🤝🏻 &nbsp;Connect to me:
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][Telegram]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />][Protonmail]
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 
 <br>
 <br>
@@ -89,9 +95,12 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 [Powershell]: https://docs.microsoft.com/en-us/powershell/
 [Kali]: https://www.kali.org/
 [Vcode]: https://code.visualstudio.com/
-[Btc]: https://bitcoin.org/en/
+[CS]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [Eth]: https://ethereum.org/en/
 [git]: https://github.com/m4xx101
 [Twitter]: https://www.twitter.com/m4xx101
 [LinkedIn]: https://www.linkedin.com/in/deepakmistry101101
+[Telegram]: https://t.me/m4xx101
+[Protonmail]: mailto:m4xx101101@protonmail.com
+[Gmail]: mailto:m4xx101101@gmail.com
 
