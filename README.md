@@ -14,8 +14,13 @@
 
 <img align="right" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 
-- 👨‍💻 **Consultant**\
-📆 2020 - Present\
+  
+- 👨‍💻 **Security Consultant**\
+📆 2021 - Present\
+📍 **NetSPI** - Mumbai, India
+  
+- 👨‍💻 **Associate Consultant**\
+📆 2020 - 2021\
 📍 **Aujas Networks Ltd** - Mumbai, India
 
 - 👨‍💻 **Executive Cyber-i**\
@@ -37,7 +42,7 @@ Started as a programmer now full time Security Consultant.
 
 In my spare time I do bug hunting, CTF Challenges, Write custom tools (Bash/python/Go).
 
-Coming to the practical Point, I like writing scripts in Bash and tools in python/golang to automate recon processes. apart from that I have total 3 years of experiance in different areas of Cyber Space.
+Coming to the practical Point, I like writing scripts in Bash and tools in python/golang to automate recon processes. apart from that I have more than 3 years of experiance in different areas of Cyber Space.
 </p>
 
 <br>
