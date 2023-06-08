@@ -42,7 +42,7 @@ Started as a programmer now full time Security Consultant.
 
 In my spare time I do bug hunting, CTF Challenges, Write custom tools (Bash/python/Go).
 
-Coming to the practical Point, I like writing scripts in Bash and tools in python/golang to automate recon processes. apart from that I have more than 3 years of experiance in different areas of Cyber Space.
+Coming to the practical Point, I like writing scripts in Bash and tools in python/golang to automate recon processes. apart from that I have more than 4+ years of experiance in different areas of Cyber Space.
 </p>
 
 <br>
