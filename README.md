@@ -103,7 +103,7 @@ Coming to the practical Point, I like writing scripts in Bash and tools in pytho
 [CS]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [Eth]: https://ethereum.org/en/
 [git]: https://github.com/m4xx101
-[Twitter]: https://www.twitter.com/m4xx101
+[Twitter]: https://www.twitter.com/1m4xx0
 [LinkedIn]: https://www.linkedin.com/in/deepakmistry101101
 [Telegram]: https://t.me/m4xx101
 [Protonmail]: mailto:m4xx101101@protonmail.com
