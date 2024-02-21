@@ -1,7 +1,7 @@
-### Hello Friend!, I'm Deepak. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+### Hey There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resume (Click here)</summary>
 
 
 ## Education
