@@ -65,6 +65,8 @@ Experienced penetration tester with a strong background in ethical hacking, vuln
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />][CS]
 
+<br>
+
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white" />][Eth]
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][git]
