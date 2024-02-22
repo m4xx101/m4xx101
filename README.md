@@ -40,13 +40,11 @@
 
 Experienced penetration tester with a strong background in ethical hacking, vulnerability assessments, and security research. Proven ability to identify and exploit vulnerabilities in networks, systems, and applications to assess and improve overall security posture. Strong knowledge of industry-standard tools and techniques, as well as a deep understanding of various operating systems and platforms. Passionate about staying current with the latest security trends and threats to better protect organizations from cyber attacks.
 
-==================================
-[$] Area of interest are:
-==================================
-[+] AI/LLM security
-[+] Blockchain security
-[+] Smart contract/DeFi security
-[+] Red Teaming
+#### [#] My playgrounds:
+- **AI/LLM Security**: Unraveling the mysteries of artificial intelligence.
+- **Blockchain Security**: Protecting the chains that bind the digital economy.
+- **Smart Contract/DeFi Security**: Fortifying the future of finance.
+- **Red Teaming**: Playing the adversary to stay one step ahead.
 </p>
 
 <br>
