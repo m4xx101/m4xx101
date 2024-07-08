@@ -1,8 +1,7 @@
-### Hey There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<img src=https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif width="100%"/>
 
 <details>
   <summary>📃 Resume (Click here)</summary>
-
 
 ## Education
 
